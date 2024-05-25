@@ -6,7 +6,7 @@ Welcome to the AI Assistant Chatbot project! This chatbot uses semantic routing 
 ## Project Structure
 
 ```
-AI-Assistant-chatbot
+AI-Assistant-chatbot/
 │   ├── main.py
 │   ├── config.py
 │   ├── routes/
