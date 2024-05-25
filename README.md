@@ -7,22 +7,22 @@ Welcome to the AI Assistant Chatbot project! This chatbot uses semantic routing 
 
 ```
 AI-Assistant-chatbot/
-│   ├── main.py
-│   ├── config.py
-│   ├── routes/
-│   │   ├── api.py
-│   │   └── auth.py
-│   ├── models/
-│   │   ├── __init__.py
-│   │   ├── user.py
-│   │   └── response.py
-│   ├── services/
-│   │   ├── __init__.py
-│   │   └── assistant.py
-│   ├── utils/
-│   │   ├── __init__.py
-│   │   └── helpers.py
-│   └── status_codes.py
+├── main.py
+├── config.py
+├── routes/
+│ ├── api.py
+│ └── auth.py
+├── models/
+│ ├── init.py
+│ ├── user.py
+│ └── response.py
+├── services/
+│ ├── init.py
+│ └── assistant.py
+├── utils/
+│ ├── init.py
+│ └── helpers.py
+├── status_codes.py
 ├── requirements.txt
 ├── .gitignore
 └── README.md
