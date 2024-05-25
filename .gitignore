@@ -1,0 +1,14 @@
+# Virtual environment
+chatbot_env/
+venv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Configuration files
+.envrc
+
+# Log files
+*.log
